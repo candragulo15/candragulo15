@@ -24,7 +24,7 @@ Currently studying in a university, and I love learn new things in programming s
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=candragulo15&hide=contribs,prs&show_icons=true&hide_border=true&theme=aura_dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candragulo15&layout=compact&title_color=DB6667" height=196 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candragulo15&layout=compact&title_color=DB6667&hide_border=true" height=180 />
 </p>
 
 <!-- ### Let's connect!
