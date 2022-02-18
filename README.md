@@ -3,9 +3,9 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/OS-Linux Os-blue?&logo=linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/IDE-PHP Intelphense-blue?&logo=php" />
+    <img src="https://img.shields.io/badge/OS-Linux Os-yellow?&logo=linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-inactive?&logo=windows" />
+    <img src="https://img.shields.io/badge/IDE-PHP Intelphense-blueviolet?&logo=php" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/candragulo15" />
 </p>
