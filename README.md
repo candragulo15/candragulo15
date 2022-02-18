@@ -50,3 +50,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
+Untuk menampilkan stats github
+<p><img src="https://github-readme-stats.vercel.app/api?username=candragulo15&show_icons=true&theme=nightowl&locale=en" alt="candragulo15" /></p>
+
+Untuk menampilkan achievement (pencapaian)
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=candragulo15&row=3&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="candragulo15" /></a></p> -->
