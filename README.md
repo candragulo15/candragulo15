@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Candra!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Currently studying in a university, and I love learn new things in programming such as php, dart, and python
 
 ### Tools:
 <p>
